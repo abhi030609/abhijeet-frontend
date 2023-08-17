@@ -178,7 +178,7 @@ const Contact = () => {
         <form onSubmit={onSubmitForm} className="contacte-data-div">
           <div className="contact-input-divs">
             <div>
-              <label className="contact-laber-text">First Name</label>
+              <label className="contact-laber-text">First Name <span className="contact-section-require">*</span></label>
               <input
                 className="contact-input-feild"
                 type="text"
@@ -189,7 +189,7 @@ const Contact = () => {
               />
             </div>
             <div>
-              <label className="contact-laber-text">Last Name</label>
+              <label className="contact-laber-text">Last Name  <span className="contact-section-require">*</span></label>
               <input
                 className="contact-input-feild"
                 type="text"
@@ -202,7 +202,7 @@ const Contact = () => {
           </div>
           <div className="contact-input-divs">
             <div>
-              <label className="contact-laber-text">Email</label>
+              <label className="contact-laber-text">Email  <span className="contact-section-require">*</span></label>
               <input
                 className="contact-input-feild"
                 type="text"
@@ -224,7 +224,7 @@ const Contact = () => {
             </div>
           </div>
           <div>
-            <label className="contact-laber-text">Message</label>
+            <label className="contact-laber-text">Message  <span className="contact-section-require">*</span></label>
             <input
               className="contact-input-feild"
               type="text"
