@@ -74,13 +74,13 @@ const professionalTabs = [
 // ];
 
 const ProductMarketingandManagement = [
-  "Develop and execute product marketing strategies to drive awareness, generate leads, and increase product adoption.",
-  "Analyze and track product performance, including key metrics and market trends, to inform strategic decisions and optimize marketing campaigns.",
-  "Conduct market research and competitor analysis to identify market opportunities, understand customer needs, and differentiate products.",
-  "Manage the product lifecycle from ideation to launch, including pricing, positioning, and go-to-market strategies.",
-  "Create and maintain product documentation, including user guides, FAQs, and case studies.",
+  "Managed Social Media Accounts, Grown LinkedIn Followers from 0 to 2000+ in Six Months.",
+  "Conducted ongoing industry trend research, leading to the company's adaptation and capture of 15% new market opportunities.",
+  "Mentored and trained 10+ team members, ensuring well-equipped to deliver compelling product demonstrations, contributing to a 15% increase in demo effectiveness.",
+  "Managed the product lifecycle from ideation to launch, including pricing, positioning, and go-to-market strategies.",
+  "Utilized LinkedIn Sales Navigator to build and nurture valuable relationships with key decision-makers, increasing conversion rates by 10% within 3 months.",
   "Collaborate with cross-functional teams, including sales, product development, and customer service, to ensure alignment and maximize product success.",
-  "Deliver compelling product demos and presentations to prospects, customers, and internal stakeholders.",
+  "Monitored marketing outreach campaign performance regularly, offering actionable insights, led to a 15% increase in campaign ROI and enhanced overall strategy effectiveness.",
   "Train internal teams on product features, updates, and value propositions.",
 ];
 
