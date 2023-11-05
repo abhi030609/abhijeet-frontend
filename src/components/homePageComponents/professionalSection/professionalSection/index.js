@@ -170,7 +170,7 @@ const ProfessionalSection = () => {
                       Product Marketing & Management
                     </h4>{" "}
                     <div>
-                      <h4 className="heading-3">Feb. 2022 - Present</h4>{" "}
+                      <h4 className="heading-3">Feb. 2022 - Jul. 2023</h4>{" "}
                     </div>
                   </div>
                   <div className="professional-disply-flex-row">
@@ -201,7 +201,7 @@ const ProfessionalSection = () => {
                   <div>
                     <h4 className="heading-3">
                       Product Marketing and Management | Fulltime (Feb. 2023 –
-                      Present)
+                      Jul. 2023)
                     </h4>
                     <ul className="primary-para professional-secton-my-role-ul">
                       {ProductMarketingandManagement.map((eachItemsAs) => (
