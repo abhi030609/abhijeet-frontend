@@ -100,21 +100,22 @@ const MarketingStrategist = [
 ];
 
 const MAMS = [
-  "Collaborated closely with the Director and Principal of a school to execute marketing campaigns promoting the TEDx event.",
-  "Developed and implemented innovative strategies as a social media marketing intern to drive engagement and enhance brand awareness on platforms like Facebook, Instagram, and LinkedIn.",
+  "Enhanced brand awareness through social media platforms, growing the brand's social following by 25% and increasing engagement by 20% within 3 months.",
+  "Executed a social media strategy, recognizing the significance of social media in reaching 40 to 50 percent of the youth audience daily.",
   "Achieved a remarkable 25% increase in website traffic from social media channels and a substantial 30% growth in social media followers.",
   "Produced captivating and compelling content, identifying new opportunities to effectively connect with and engage the target audience through social media.",
   "Attained an average of 50% more likes and a significant 20% increase in post engagement on social media platforms.",
   "Played a pivotal role in shaping the online presence of the TEDxMAMS brand, resulting in a notable 10% improvement in customer satisfaction as measured by online reviews and surveys.",
-  "Analyzed and interpreted data to continuously monitor the performance of social media campaigns, utilizing insights to optimize strategies.",
-  "Successfully decreased social media ad spend by 15% while maintaining a high level of engagement and generating quality leads.",
+  "Crafted compelling content aligned with TEDx's core philosophy, leading to a 30% increase in audience engagement.",
+  "Developed a comprehensive digital marketing strategy for a student-centric virtual TEDx event, targeting a youth audience, resulting in a 25% growth in event participation.",
 ];
 
 const BafnaCarsPvtLtd = [
-  "Conducted thorough market research to collect and analyze data on competitors, customers, and market trends.",
-  "Assisted in the development and execution of comprehensive marketing strategies, including conducting research, developing campaigns, and analyzing performance.",
+  "Conducted comprehensive market research, providing valuable data on competitors, customers, and emerging market trends. research-informed strategic decisions, leading to a 12% increase in market attractiveness.",
+  "Performed administrative tasks, aided in the formulation and implementation of effective marketing campaigns, contributing to a 10% increase in footfall.",
   "Created and updated various marketing content, such as brochures, presentations, and social media posts, with a particular focus on YouTube.",
-  "Engaged with a wide audience of over 5,000 individuals through social media platforms, resulting in a notable 20% increase in service sales within a span of 6 months, specifically through YouTube content creation.",
+  "Engaged with a significant online audience, connecting with over 200+ individuals through various social media platforms converting into 20% potential leads.",
+  "Researched contributed to a remarkable 20% to 30% increase in service sales within a span of 6 months, with a strong emphasis on YouTube content creation and engagement.",
   "Performed various administrative tasks to support the formulation and implementation of effective marketing campaigns.",
 ];
 
@@ -122,9 +123,9 @@ const FrozenCreation = [
   "Successfully applied knowledge and skills to various business ventures, including event management companies, edtech startups, medical firms, home-based bakeries, college clubs, and educational events.",
   "Served as a marketer, brand manager, and lead generator, contributing to the growth and success of these ventures.",
   "Worked with over 10,000 targeted demographics, resulting in remarkable achievements such as increased brand awareness and lead generation for MSMEs.",
-  "Delivered comprehensive market research and analysis to inform businesses' marketing strategies and goals.",
+  "Delivered comprehensive market research and analysis to 8+ businesses for making informed decisions about marketing strategies and goals.",
   "Manage and curate content across various media platforms, including social media handles, website, YouTube channel, emails, and more, at Frozen Creation.",
-  "Oversee ongoing tasks and responsibilities at all levels, ensuring smooth operations and effective content management.",
+  "Directed a team of highly skilled professionals, managing a team of 12+ members dedicated to delivering results for clients.",
   "Analyze data insights, perform SEO (Search Engine Optimization), and implement SEM (Search Engine Marketing) practices to optimize online visibility and performance.",
   "Proficient in Google AdWords, including on-page and off-page SEO strategies.",
   "Experienced in social media marketing, leveraging platforms to engage with the target audience and drive brand awareness.",
