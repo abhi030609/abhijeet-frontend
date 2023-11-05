@@ -233,7 +233,7 @@ const ProfessionalSection = () => {
                   <div className="professional-disply-flex-row">
                     <h4 className="heading-3">Social Media Marketing Intern</h4>
                     <div>
-                      <h4 className="heading-3">Aug. 2020 - Nov. 2020</h4>
+                      <h4 className="heading-3">Sep. 2020 - Nov. 2020</h4>
                     </div>
                   </div>
                   {/* <div className="professional-disply-flex-row">
@@ -265,7 +265,7 @@ const ProfessionalSection = () => {
                   </div>
                   <div>
                     <h4 className="heading-3">
-                      Social Media Marketing Intern | Internship (Aug. 2020 -
+                      Social Media Marketing Intern | Internship (Sep. 2020 -
                       Nov. 2020)
                     </h4>
 
